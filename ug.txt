@@ -1,0 +1,8 @@
+||tabs.ultimate-guitar.com^$image,websocket,media,object,xmlhttprequest,subdocument,ping
+||cdn.ustatik.com/s3/ug.video.warm/
+||socketcluster.k8s.wsmgroup.ru^
+
+tabs.ultimate-guitar.com##main > div > article > div > article > section:nth-last-child(2)
+tabs.ultimate-guitar.com##div[style*="z-index: 1000"]
+tabs.ultimate-guitar.com##.js-tab-pro-tools:nth-ancestor(3)
+tabs.ultimate-guitar.com##section[id="shots"]
