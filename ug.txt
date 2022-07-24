@@ -1,3 +1,14 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/sweetgiorni/ultimate-guitar-filter-list
+! Title: Ultimate Guitar Filter LIst
+! Expires: 7 days
+! Last modified: %timestamp%
+! Description: Filters annoying elements on ultimate-guitar.com
+!
+! License: https://github.com/sweetgiorni/ultimate-guitar-filter-list/blob/main/LICENSE
+!         
+!
+
 ||tabs.ultimate-guitar.com^$image,websocket,media,object,xmlhttprequest,subdocument,ping
 ||cdn.ustatik.com/s3/ug.video.warm/
 ||socketcluster.k8s.wsmgroup.ru^
